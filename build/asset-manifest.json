@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lightbox-example/static/css/main.5165ab44.css",
+    "main.js": "/lightbox-example/static/js/main.6dbea7d6.js",
+    "index.html": "/lightbox-example/index.html",
+    "main.5165ab44.css.map": "/lightbox-example/static/css/main.5165ab44.css.map",
+    "main.6dbea7d6.js.map": "/lightbox-example/static/js/main.6dbea7d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5165ab44.css",
+    "static/js/main.6dbea7d6.js"
+  ]
+}
